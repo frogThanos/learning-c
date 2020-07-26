@@ -15,6 +15,5 @@ int main() {
     bool trueBooleanC99 = true;
     bool falseBooleanC99 = false;
 
-
     return 0;
 }
