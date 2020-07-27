@@ -23,5 +23,7 @@ int main() {
     printf("The charVar is %c\n", charVar);
     printf("The boolC89Var is %i\n", boolC89Var);
     printf("The boolC99Var is %i\n", boolC99Var);
+    printf("Multiple variables on one line");
+    printf("The integerVar is %i, the floatingVar is %f, the doubleVar is %e\n", integerVar, floatingVar, doubleVar);
     return 0;
 }
