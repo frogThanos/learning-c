@@ -23,4 +23,5 @@ int main() {
     printf("The charVar is %c\n", charVar);
     printf("The boolC89Var is %i\n", boolC89Var);
     printf("The boolC99Var is %i\n", boolC99Var);
+    return 0;
 }
